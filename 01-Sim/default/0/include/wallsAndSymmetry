@@ -1,0 +1,24 @@
+/*--------------------------------*- C++ -*----------------------------------*\
+  =========                 |
+  \\      /  F ield         | OpenFOAM: The Open Source CFD Toolbox
+   \\    /   O peration     | Website:  https://openfoam.org
+    \\  /    A nd           | Version:  6
+     \\/     M anipulation  |
+\*---------------------------------------------------------------------------*/
+
+// externalFlow
+// {
+//     type            slip;
+// }
+
+// symmetryWalls
+// {
+//     type            symmetry;
+// }
+
+walls
+{
+  type    slip;
+}
+
+// ************************************************************************* //
