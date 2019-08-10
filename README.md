@@ -1,5 +1,5 @@
 # pHacktory - Saturn Wheel
-Here lies the files for the 3D model, flow simulation, and arduino coding.
+These are the files for the 3D model, flow simulation, and arduino coding.
 
 Click [here](https://github.com/pHacktory/saturnWheel/wiki) or navigate to the wiki for more detailed information.
 ## Hardware and Software
